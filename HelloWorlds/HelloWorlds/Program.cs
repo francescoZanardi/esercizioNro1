@@ -10,6 +10,8 @@ namespace HelloWorlds
     {
         static void Main(string[] args)
         {
+            //Console.Write di prova da git
+            Console.WriteLine("Prova da git");
             Console.WriteLine("Hello World");
         }
     }
